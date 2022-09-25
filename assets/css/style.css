@@ -1,0 +1,55 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #d6e2f0;
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+section div {
+  width: 264px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #ffffff;
+}
+section div img {
+  border-radius: 15px;
+  width: 100%;
+}
+section div p {
+  color: #7b879d;
+  margin: 15px 10px 20px;
+}
+section div h1 {
+  font-size: 20px;
+  margin: 10px 0 0 0;
+  padding: 0;
+  color: #1f3251;
+}
+
+@media (max-width: 375px) {
+  section div {
+    width: 82%;
+    padding: 18px;
+  }
+  section div p {
+    font-size: 17px;
+    margin: 15px 10px 20px;
+  }
+  section div h1 {
+    font-size: 25px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
