@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-component-RteVmPpC9T)
-- Live Site URL: [Live Site](https://anubis356.github.io/QR-Component/)
+- Live Site URL: [Live Site](https://hellorapio.github.io/QR-Component/)
 
 
 ### Built with
@@ -30,5 +30,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@anubis356](https://www.frontendmentor.io/profile/anubis356)
-- Twitter - [@raapio](https://www.twitter.com/raapio)
+- Twitter - [@hellorapio](https://www.twitter.com/hellorapio)
 
